@@ -1,0 +1,21 @@
+                                                     Welcome to  Library Management System  
+                                            *-------------------------------------------------*
+Que  1 - What sort of work you can do in this software?
+Ans -    This software can help you in managing your Library work very easily .  These are some sort of operations you
+         can perform . 
+              1. Add new Books to the database .
+              2. Search for existing books in the records .
+              3. Issue or Return the Books .
+              4. View issued books records . 
+
+Que 2 - What are the Benifits of using this software ?
+Ans -   The software is highly secure and user friendly , without Login details No one can access the software .
+        The user can perform all sort of works related to Library Managing . The Data is permanentaly stored and 
+        fully secure .
+Que 3 - What are the already added books in database ?
+Ans -   data_stuctures , computer_architecture  , mathematics , dcld , oops .*please take care of the case i.e. type in lower case only . 
+
+Que 3 - What is the User_name and Password ?
+Ans  -  These entities are higly sensitive . These will be given to the owner by the developer at the time of purchase 
+         if you forgot these details , contact the developers .
+                                                    *________________________________________*

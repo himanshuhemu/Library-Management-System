@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1508775471 source:f:\project\lms\main.cpp
+	"\Project\LMS\signin.h"
+	"\Project\LMS\createrecord.h"
+
+1508775615 source:f:\project\lms\signin.cpp
+	"signin.h"
+
+1508772455 f:\project\lms\signin.h
+	<iostream>
+	<string.h>
+
+1508774414 f:\project\lms\createrecord.h
+
+1510070564 source:f:\himanshudata\my projects\3rd sem\lms\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"signin.h"
+	"help.h"
+	"record.h"
+	"search.h"
+	"ret.h"
+	"createrecord.h"
+
+1509021104 f:\himanshudata\my projects\3rd sem\lms\signin.h
+	<iostream>
+	<string.h>
+	<windows.h>
+
+1509191078 f:\himanshudata\my projects\3rd sem\lms\help.h
+	<iostream>
+	<fstream>
+
+1509201943 f:\himanshudata\my projects\3rd sem\lms\record.h
+	<iostream>
+	<fstream>
+
+1508918011 f:\himanshudata\my projects\3rd sem\lms\search.h
+	<fstream>
+
+1508956944 f:\himanshudata\my projects\3rd sem\lms\ret.h
+	<iostream>
+	<fstream>
+
+1508921654 f:\himanshudata\my projects\3rd sem\lms\createrecord.h
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,128 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/HimanshuData/My Projects/3rd sem/LMS/createrecord.cpp
+createrecord.h
+F:/HimanshuData/My Projects/3rd sem/LMS/createrecord.h
+
+F:/HimanshuData/My Projects/3rd sem/LMS/createrecord.h
+iostream
+-
+fstream
+-
+
+F:/HimanshuData/My Projects/3rd sem/LMS/help.cpp
+help.h
+F:/HimanshuData/My Projects/3rd sem/LMS/help.h
+
+F:/HimanshuData/My Projects/3rd sem/LMS/help.h
+iostream
+-
+fstream
+-
+
+F:/HimanshuData/My Projects/3rd sem/LMS/main.cpp
+iostream
+-
+windows.h
+-
+conio.h
+-
+signin.h
+F:/HimanshuData/My Projects/3rd sem/LMS/signin.h
+help.h
+F:/HimanshuData/My Projects/3rd sem/LMS/help.h
+record.h
+F:/HimanshuData/My Projects/3rd sem/LMS/record.h
+search.h
+F:/HimanshuData/My Projects/3rd sem/LMS/search.h
+ret.h
+F:/HimanshuData/My Projects/3rd sem/LMS/ret.h
+createrecord.h
+F:/HimanshuData/My Projects/3rd sem/LMS/createrecord.h
+
+F:/HimanshuData/My Projects/3rd sem/LMS/obj/issue.cpp
+iostream
+-
+fstream
+-
+issue.h
+F:/HimanshuData/My Projects/3rd sem/LMS/obj/issue.h
+
+F:/HimanshuData/My Projects/3rd sem/LMS/obj/issue.h
+iostream
+-
+string.h
+-
+
+F:/HimanshuData/My Projects/3rd sem/LMS/obj/record.cpp
+record.h
+F:/HimanshuData/My Projects/3rd sem/LMS/obj/record.h
+
+F:/HimanshuData/My Projects/3rd sem/LMS/obj/record.h
+iostream
+-
+fstream
+-
+
+F:/HimanshuData/My Projects/3rd sem/LMS/obj/ret.cpp
+ret.h
+F:/HimanshuData/My Projects/3rd sem/LMS/obj/ret.h
+windows.h
+-
+
+F:/HimanshuData/My Projects/3rd sem/LMS/obj/ret.h
+iostream
+-
+fstream
+-
+
+F:/HimanshuData/My Projects/3rd sem/LMS/obj/search.cpp
+iostream
+-
+iomanip
+-
+search.h
+F:/HimanshuData/My Projects/3rd sem/LMS/obj/search.h
+issue.h
+F:/HimanshuData/My Projects/3rd sem/LMS/obj/issue.h
+windows.h
+-
+
+F:/HimanshuData/My Projects/3rd sem/LMS/obj/search.h
+fstream
+-
+
+F:/HimanshuData/My Projects/3rd sem/LMS/record.h
+iostream
+-
+fstream
+-
+
+F:/HimanshuData/My Projects/3rd sem/LMS/ret.h
+iostream
+-
+fstream
+-
+
+F:/HimanshuData/My Projects/3rd sem/LMS/search.h
+fstream
+-
+
+F:/HimanshuData/My Projects/3rd sem/LMS/signin.cpp
+signin.h
+F:/HimanshuData/My Projects/3rd sem/LMS/signin.h
+
+F:/HimanshuData/My Projects/3rd sem/LMS/signin.h
+iostream
+-
+string.h
+-
+windows.h
+-
+
